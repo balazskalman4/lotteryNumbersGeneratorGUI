@@ -1,0 +1,2 @@
+# lotteryNumbersGeneratorGUI
+Magyar lottószámgenerátor
